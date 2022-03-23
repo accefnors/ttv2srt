@@ -1,5 +1,6 @@
 # ttv2srt
 Download twitch.tv VOD chats as SubRip .srt files
+Inspired by https://vods.online/
 
 ```
 usage: ttv2srt.py [-h] [-e] [-t TIME] [-k | -m] [-x | -s] [-o OUTPUT] input
