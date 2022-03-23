@@ -1,5 +1,5 @@
 # ttv2srt
-Download twitch.tv VOD chats as SubRip .srt files
+Download twitch.tv VOD chats as SubRip .srt files  
 Inspired by https://vods.online/
 
 ```
